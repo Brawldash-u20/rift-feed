@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "mvchd9qv",
+      "type": "update",
+      "title": "Rift Client 1.0.0 ist da!",
+      "message": "Ein neues Update steht zum Download bereit.",
+      "link": "https://github.com/Brawldash-u20/rift-feed/releases/download/v1.0.0/RiftClient-Setup-1.0.0.exe",
+      "version": "1.0.0",
+      "mandatory": false,
+      "blocking": false,
+      "createdAt": "2026-10-17T14:17:09.271Z",
+      "expiresAt": null
+    },
+    {
       "id": "mvbz0467pg5d",
       "type": "maintenance",
       "title": "Wartungsarbeiten",
