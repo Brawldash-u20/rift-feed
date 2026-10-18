@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "mve389c3tel5",
+      "type": "maintenance",
+      "title": "Wartungsarbeiten",
+      "message": "",
+      "link": "",
+      "blocking": true,
+      "mandatory": false,
+      "etaAt": "2026-10-18T17:31:53.187Z",
+      "createdAt": "2026-10-18T17:16:53.187Z",
+      "expiresAt": null
+    },
+    {
       "id": "mve37jsir8gi",
       "type": "news",
       "title": "Neue Crates im Shop!",
@@ -22,18 +34,6 @@
       "blocking": false,
       "hot": false,
       "createdAt": "2026-10-18T17:15:16.076Z",
-      "expiresAt": null
-    },
-    {
-      "id": "mvbz0467pg5d",
-      "type": "maintenance",
-      "title": "Wartungsarbeiten",
-      "message": "",
-      "link": "",
-      "blocking": true,
-      "mandatory": false,
-      "etaAt": "2026-10-17T05:58:02.431Z",
-      "createdAt": "2026-10-17T05:43:02.432Z",
       "expiresAt": null
     }
   ]
