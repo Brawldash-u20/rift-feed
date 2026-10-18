@@ -1,6 +1,17 @@
 {
   "announcements": [
     {
+      "id": "mve37jsir8gi",
+      "type": "news",
+      "title": "Neue Crates im Shop!",
+      "message": "Neue Capes und Skins sind ab sofort in den Crates verfügbar.",
+      "link": "",
+      "blocking": false,
+      "mandatory": false,
+      "createdAt": "2026-10-18T17:16:20.082Z",
+      "expiresAt": null
+    },
+    {
       "id": "mve366ek",
       "type": "update",
       "title": "Rift Client 1.0.2 ist da!",
