@@ -1,18 +1,6 @@
 {
   "announcements": [
     {
-      "id": "mvgj3lwdsnno",
-      "type": "update",
-      "title": "Rift Launcher 1.2.3 ist da!",
-      "message": "Bugfixes",
-      "link": "https://github.com/Rift-minecraft/rift-feed/releases/download/v1.2.3/rift-update-1.2.3.zip",
-      "version": "1.2.3",
-      "mandatory": false,
-      "hot": true,
-      "sha256": "a132ee04431fe4d991b6aa72663dff11ce1a64e40ac24af6361c2ab49a73f579",
-      "createdAt": "2026-10-20T10:16:42.397Z"
-    },
-    {
       "id": "mvgae7kop46n",
       "type": "news",
       "title": "test",
