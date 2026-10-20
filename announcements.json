@@ -1,3 +1,15 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "mvgj46dxggnm",
+      "type": "maintenance",
+      "title": "Wartungsarbeiten",
+      "message": "",
+      "link": "",
+      "blocking": true,
+      "etaAt": "2026-10-20T10:32:08.949Z",
+      "createdAt": "2026-10-20T10:17:08.949Z",
+      "expiresAt": null
+    }
+  ]
 }
