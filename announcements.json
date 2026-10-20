@@ -1,1 +1,14 @@
-{"announcements":[]}
+{
+  "announcements": [
+    {
+      "id": "mvgae7kop46n",
+      "type": "news",
+      "title": "test",
+      "message": "",
+      "link": "",
+      "blocking": false,
+      "createdAt": "2026-10-20T06:13:00.504Z",
+      "expiresAt": "2026-10-20T07:13:00.505Z"
+    }
+  ]
+}
