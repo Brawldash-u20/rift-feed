@@ -1,16 +1,16 @@
 {
   "announcements": [
     {
-      "id": "mvifvrnxs9nk",
+      "id": "mvigf48ntosv",
       "type": "update",
-      "title": "Rift Launcher 1.2.8 ist da!",
+      "title": "Rift Launcher 1.0.0 ist da!",
       "message": "Ein neues Update steht bereit.",
-      "link": "https://github.com/Rift-minecraft/rift-feed/releases/download/v1.2.8/rift-update-1.2.8.zip",
-      "version": "1.2.8",
+      "link": "https://github.com/Rift-minecraft/rift-feed/releases/download/v1.0.0/rift-update-1.0.0.zip",
+      "version": "1.0.0",
       "mandatory": false,
       "hot": true,
-      "sha256": "3d53c8d7437cb8daf15088e9a939e6796f1c57170c1c37b915248d1cd01754c0",
-      "createdAt": "2026-10-21T18:22:10.125Z"
+      "sha256": "607876c8462c774abf1b6b9704c2ea0513611efd0bcf03090c8cfbb8e639f076",
+      "createdAt": "2026-10-21T18:37:12.887Z"
     }
   ]
 }
