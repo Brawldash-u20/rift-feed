@@ -1,16 +1,16 @@
 {
   "announcements": [
     {
-      "id": "mvjq1kkc4b12",
+      "id": "mvkkt506e86w",
       "type": "update",
-      "title": "Rift Launcher 1.3.2 ist da!",
-      "message": "to lazy to write a changelog to be honest",
-      "link": "https://github.com/Rift-minecraft/rift-feed/releases/download/v1.3.2/rift-update-1.3.2.zip",
-      "version": "1.3.2",
-      "mandatory": false,
+      "title": "Rift Launcher 1.3.3 ist da!",
+      "message": "Ein neues Update steht bereit.",
+      "link": "https://github.com/Rift-minecraft/rift-feed/releases/download/v1.3.3/rift-update-1.3.3.zip",
+      "version": "1.3.3",
+      "mandatory": true,
       "hot": true,
-      "sha256": "365e51084dd26a465339be1676ee75a7a9cd07ecdeebfae97f6a6bdbfb8a9ec0",
-      "createdAt": "2026-10-22T15:54:23.196Z"
+      "sha256": "cb17da2657895cb93cfea58075a9929c9a5e2cc78bf47f9ee71faec8510f1a0b",
+      "createdAt": "2026-10-23T06:15:37.878Z"
     }
   ]
 }
